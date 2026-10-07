@@ -322,7 +322,3 @@ The design language is intentionally different from common admin dashboards:
 - CI pipeline for backend tests + frontend build
 
 ---
-
-## License
-
-Use this project for learning, portfolio demonstrations and your own applications. Add the license of your choice before publishing publicly.
